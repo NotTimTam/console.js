@@ -1,5 +1,5 @@
 {
-  "name": "@tphillips/console.js",
+  "name": "@nottimtam/console.js",
   "version": "1.0.0",
   "description": "A tiny, dependency-less package for printing pretty, timestamped messages to the console.",
   "main": "index.js",
