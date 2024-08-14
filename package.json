@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "A tiny, dependency-less package for printing pretty, timestamped messages to the console.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NotTimTam/console.js.git"
@@ -15,6 +12,9 @@
     "log",
     "timestamp"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "NotTimTam",
   "license": "MIT",
   "bugs": {
